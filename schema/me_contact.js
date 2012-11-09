@@ -8,7 +8,7 @@ var me_contact = {
         fax     :   {   'type':String, 'default': '' },
         mobile  :   {   'type':String, 'default': '' },
         office  :   {   'type':String, 'default': '' },
-        others  : []
+        other   : []
     },
     
     email   : {
@@ -16,7 +16,19 @@ var me_contact = {
         secondary:  []
     },
    
-   
+   address  :   {
+        home: {
+            type:   {   'type':String, 'default': '' },
+            unit:   {   'type':String, 'default': '' },
+            po  :   {   'type':String, 'default': '' },
+            street: {   'type':String, 'default': '' },
+            city:   {   'type':String, 'default': '' },
+            state:  {   'type':String, 'default': '' },
+            country:{   'type':String, 'default': '' },
+            zipcode:{   'type':String, 'default': '' }
+        },
+        other: []
+   }
    
 }
 

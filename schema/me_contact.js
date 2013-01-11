@@ -3,6 +3,8 @@
 */
 
 var me_contact = {
+    
+    mid     :   {   'type':String, 'default': '' },         /* Me Id */
     phone   :   {
         home    :   {   'type':String, 'default': '' },
         fax     :   {   'type':String, 'default': '' },

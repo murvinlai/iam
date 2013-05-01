@@ -1,0 +1,20 @@
+The idea of "IAM" project is to provide a cross site and cross platform method to share user credential in a secure way.
+
+There are two approaches:
+1) centralized Database for keeping track user credential
+2) decentralized data shared across multiple sites and users, such as bitcoin concept. 
+
+User Features:
+- Users can set up their account to:
+  1) Set up group or individual online wallet(s). 
+  2) Each group or individual wallet will have a unique & shareable credential.  The credential is auto generated random text. 
+  3) Each wallet will have a list of applicalbe privacy policy, such as contact info, user name, shareable info, pre-accept privacy term.
+  4) Multiple payment wallet(s) can be set up and apply for group or individual wallet. 
+  5) When user sign up a new participate website, instead of filling up user information, user can choose to use "IAM" account and 
+  pick the wallet that match the privacy term set by the website. User doesn't need to fill in their information.  If the website requires 
+  user name & password for sign up, "IAM" will use the wallet global & unique name for login name, and generated unique password for that website 
+  for signing up. 
+  6) When login, user just uses the wallet name, and the associated login credential (that for login elsewhere other than "IAM" system)
+  7) User can view the sites that uses & belongs to a wallet.  User can change it anytime. 
+  
+  

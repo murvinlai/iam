@@ -1,0 +1,9 @@
+Phase I:
+
+Let's make it simple first. 
+
+1) Create privileges with different classes.
+2) Set privileges ranking(??) for how important a privilege is to user.
+3) Create simple user with multiple accounts, each with user privileges.
+
+

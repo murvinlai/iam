@@ -7,3 +7,5 @@ Let's make it simple first.
 3) Create simple user with multiple accounts, each with user privileges.
 
 
+// Look into Bitcoin specification.
+

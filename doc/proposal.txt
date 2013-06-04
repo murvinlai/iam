@@ -1,8 +1,6 @@
 The idea of "IAM" project is to provide a cross site and cross platform method to share user credential in a secure way.
 
-There are two approaches:
-1) centralized Database for keeping track user credential
-2) decentralized data shared across multiple sites and users, such as bitcoin concept. 
+Storage -  decentralized data shared across multiple sites and users, such as bitcoin concept. 
 
 User Features:
 - Users can set up their account to:

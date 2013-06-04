@@ -9,3 +9,6 @@ Let's make it simple first.
 
 // Look into Bitcoin specification.
 
+// Storage
+Instead of centralized storage, a better approach will be distributed data among close social network / circle of the user. 
+A user's data is  stored partially on each of his individual social point (friends).

@@ -12,3 +12,7 @@ Let's make it simple first.
 // Storage
 Instead of centralized storage, a better approach will be distributed data among close social network / circle of the user. 
 A user's data is  stored partially on each of his individual social point (friends).
+
+
+// START out with simple model. 
+1) Start with simple.  Store in a simple device with local storage.  Communicate with another device (remote) and share data with correct privacy privilege.

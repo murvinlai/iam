@@ -16,3 +16,5 @@ User Features:
   7) User can view the sites that uses & belongs to a wallet.  User can change it anytime. 
   
   
+# footnote
+Can it start at the mobile phone first as a storage device?
